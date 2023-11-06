@@ -3,3 +3,10 @@ html {
   }
   
   /* Your CSS below here */
+
+  div {
+    /* sizing and position */
+    width: 200px;
+    margin: auto;
+    line-height: 9;
+}
